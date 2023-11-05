@@ -1,0 +1,77 @@
+.form-control{
+    width: 100%;
+    border-color: rgb(189, 189, 189);
+}
+.form-group{
+    padding-top: 10px;
+}
+h2{
+    padding-top: 30px;
+    color: rgb(95, 145, 211);
+    margin-bottom: 22px;
+}
+h6{
+    padding-top: 12px;
+    padding-bottom: 40px;
+}
+form{
+    padding-bottom: 50px;
+}
+.btn{
+    padding-inline: 8%;
+    margin-inline-end: 10px;
+    padding-block: 8px; 
+    border-color: rgb(116, 156, 209); 
+}
+.r553{
+    background-color: rgb(95, 145, 211);
+    border-width: 3px;
+    border-color: rgb(208, 218, 231);   
+}
+.r554{
+    background-color: rgb(255, 255, 255);
+    border-width: 2px;
+    color:rgb(95, 145, 211);
+}
+.img{
+    text-align: center;
+}
+.navbar{
+    margin-bottom: 10%;
+    
+}
+.navbar-brand{
+    margin-inline: 35px;
+}
+.form-control{
+    background-color: rgb(203, 225, 245);
+}
+.footer{
+    color: rgb(116, 156, 209);
+    font-size: small;   
+    margin-bottom: 50px;          
+}
+.footer a, h6 a{
+    all: unset;
+}
+.footer a:hover, h6 a:hover{
+    color: blue;
+}
+.r555{
+    padding-inline: 8%;
+    margin-inline-end: 10px;
+    padding-block: 8px; 
+    border-color: rgb(116, 156, 209); 
+    margin-top: 40px;
+}
+.r379{
+    max-width: 80%;
+    border-color: rgb(189, 189, 189);              
+}
+.col-lg-4 .container-fluid{
+    padding-top: 40px;
+    margin-top: 20px;
+}
+label{
+    margin-top: 6px;
+}
